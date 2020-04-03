@@ -33,7 +33,12 @@ public class Main {
 		list.add(a9);
 		list.add(a10);
 		
-		// apply your code here...
-	}
+	
+	// apply your code here...//write for loop to display artists
 
+for(Artist x:list)
+{
+System.out.println(x);
+}
+}
 }
